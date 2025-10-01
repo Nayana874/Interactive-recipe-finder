@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Tomato Bath",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/tomato-rice-tomato-bath.jpg",
+    "ingredients": ["Rice", "Tomato", "Onion", "Green chili", "Spices"],
+    "instructions": "Cook rice. Prepare tomato masala with onion, chili, and spices. Mix with rice and serve hot.",
+    "nutrition": { "calories": "250 kcal", "carbs": "45 g", "protein": "5 g", "fat": "6 g" },
+    "url": "https://www.anhealthyrecipes.com/tomato-rice/"
+  },
+  {
+    "name": "Vegetable Upma",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/upma-recipe-1.jpg",
+    "ingredients": ["Rava", "Onion", "Carrot", "Beans", "Curry leaves"],
+    "instructions": "Roast rava. Sauté veggies with curry leaves, add water, cook, and stir in rava. Serve hot.",
+    "nutrition": { "calories": "220 kcal", "carbs": "40 g", "protein": "6 g", "fat": "5 g" },
+    "url": "https://www.vegrecipesofindia.com/upma-recipe-rava-upma/"
+  },
+  {
+    "name": "Dal Fry",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2019/08/Restaurant-Style-Dal-Fry.jpg",
+    "ingredients": ["Toor dal", "Onion", "Tomato", "Garlic", "Spices"],
+    "instructions": "Cook dal. Sauté onion, tomato, garlic, and spices. Mix with dal and simmer. Serve with rice or roti.",
+    "nutrition": { "calories": "180 kcal", "carbs": "25 g", "protein": "9 g", "fat": "6 g" },
+    "url": "https://www.vegrecipesofindia.com/dal-fry-how-to-make-punjabi-dal-fry/"
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/04/paneer-butter-masala-1.jpg",
+    "ingredients": ["Paneer", "Tomato", "Cream", "Butter", "Spices"],
+    "instructions": "Cook tomato gravy with butter and spices, add paneer cubes, finish with cream.",
+    "nutrition": { "calories": "350 kcal", "carbs": "14 g", "protein": "12 g", "fat": "28 g" },
+    "url": "https://www.vegrecipesofindia.com/paneer-butter-masala/"
+  },
+  {
+    "name": "Chole Bhature",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/chole-bhature-2.jpg",
+    "ingredients": ["Chickpeas", "Onion", "Tomato", "Spices", "Flour"],
+    "instructions": "Cook spicy chickpea curry. Make bhature with flour dough and deep fry.",
+    "nutrition": { "calories": "450 kcal", "carbs": "65 g", "protein": "14 g", "fat": "14 g" },
+    "url": "https://www.vegrecipesofindia.com/chole-bhature/"
+  },
+  {
+    "name": "Masala Dosa",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2019/11/masala-dosa-recipe-1.jpg",
+    "ingredients": ["Rice", "Urad dal", "Potato", "Onion", "Curry leaves"],
+    "instructions": "Prepare dosa batter with rice and dal. Stuff with spiced potato filling. Serve with chutney and sambar.",
+    "nutrition": { "calories": "270 kcal", "carbs": "45 g", "protein": "6 g", "fat": "8 g" },
+    "url": "https://www.vegrecipesofindia.com/masala-dosa/"
+  },
+  {
+    "name": "Idli",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2019/11/idli-recipe-1.jpg",
+    "ingredients": ["Rice", "Urad dal", "Salt"],
+    "instructions": "Grind rice and dal batter. Ferment overnight. Steam to make fluffy idlis.",
+    "nutrition": { "calories": "60 kcal", "carbs": "12 g", "protein": "2 g", "fat": "0.5 g" },
+    "url": "https://www.vegrecipesofindia.com/idli-recipe-how-to-make-soft-idlis/"
+  },
+  {
+    "name": "Sambar",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2019/05/sambar-recipe-1.jpg",
+    "ingredients": ["Toor dal", "Tamarind", "Drumstick", "Vegetables", "Sambar powder"],
+    "instructions": "Cook dal with tamarind, veggies, and sambar powder. Simmer until thick.",
+    "nutrition": { "calories": "150 kcal", "carbs": "22 g", "protein": "7 g", "fat": "4 g" },
+    "url": "https://www.vegrecipesofindia.com/sambar-recipe/"
+  },
+  {
+    "name": "Medu Vada",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2019/11/medu-vada-recipe-1.jpg",
+    "ingredients": ["Urad dal", "Onion", "Green chili", "Curry leaves"],
+    "instructions": "Soak urad dal, grind to batter, shape like donuts, and deep fry until crispy.",
+    "nutrition": { "calories": "97 kcal", "carbs": "10 g", "protein": "3 g", "fat": "5 g" },
+    "url": "https://www.vegrecipesofindia.com/medu-vada-recipe/"
+  },
+  {
+    "name": "Biryani",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/vegetable-biryani-1.jpg",
+    "ingredients": ["Basmati rice", "Vegetables or chicken", "Yogurt", "Spices"],
+    "instructions": "Cook marinated meat/veggies with spices. Layer with rice. Dum cook until aromatic.",
+    "nutrition": { "calories": "400 kcal", "carbs": "60 g", "protein": "12 g", "fat": "10 g" },
+    "url": "https://www.vegrecipesofindia.com/vegetable-biryani-recipe/"
+  },
+  {
+    "name": "Rajma Masala",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/08/rajma-masala-1.jpg",
+    "ingredients": ["Rajma (kidney beans)", "Onion", "Tomato", "Spices"],
+    "instructions": "Soak and cook rajma. Prepare onion-tomato masala. Mix and simmer until thick.",
+    "nutrition": { "calories": "260 kcal", "carbs": "40 g", "protein": "12 g", "fat": "6 g" },
+    "url": "https://www.vegrecipesofindia.com/rajma-recipe-restaurant-style-rajma-masala/"
+  },
+  {
+    "name": "Palak Paneer",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/palak-paneer-1.jpg",
+    "ingredients": ["Paneer", "Spinach", "Garlic", "Onion", "Spices"],
+    "instructions": "Blanch spinach, grind to puree. Cook with spices and paneer cubes.",
+    "nutrition": { "calories": "280 kcal", "carbs": "12 g", "protein": "14 g", "fat": "20 g" },
+    "url": "https://www.vegrecipesofindia.com/palak-paneer-restaurant-style-recipe/"
+  },
+  {
+    "name": "Pav Bhaji",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/pav-bhaji-1.jpg",
+    "ingredients": ["Potato", "Tomato", "Capsicum", "Pav bhaji masala"],
+    "instructions": "Cook mashed veggies with spices. Serve with buttered pav buns.",
+    "nutrition": { "calories": "300 kcal", "carbs": "50 g", "protein": "8 g", "fat": "8 g" },
+    "url": "https://www.vegrecipesofindia.com/pav-bhaji-recipe/"
+  },
+  {
+    "name": "Aloo Paratha",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/aloo-paratha-1.jpg",
+    "ingredients": ["Wheat flour", "Potato", "Onion", "Green chili"],
+    "instructions": "Stuff spiced mashed potato inside wheat dough. Roll and cook on tawa with ghee.",
+    "nutrition": { "calories": "180 kcal", "carbs": "30 g", "protein": "5 g", "fat": "6 g" },
+    "url": "https://www.vegrecipesofindia.com/aloo-paratha-indian-bread-stuffed-with-potato-filling/"
+  },
+  {
+    "name": "Butter Chicken",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/butter-chicken-1.jpg",
+    "ingredients": ["Chicken", "Tomato", "Butter", "Cream", "Spices"],
+    "instructions": "Cook chicken in tomato-butter gravy with spices. Finish with cream.",
+    "nutrition": { "calories": "430 kcal", "carbs": "14 g", "protein": "25 g", "fat": "28 g" },
+    "url": "https://www.vegrecipesofindia.com/butter-chicken/"
+  },
+  {
+    "name": "Kadhi Pakora",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/kadhi-pakora-1.jpg",
+    "ingredients": ["Besan", "Curd", "Onion", "Spices"],
+    "instructions": "Make spiced yogurt curry. Fry besan pakoras and add to curry. Simmer before serving.",
+    "nutrition": { "calories": "200 kcal", "carbs": "22 g", "protein": "8 g", "fat": "9 g" },
+    "url": "https://www.vegrecipesofindia.com/punjabi-kadhi-pakora-recipe/"
+  },
+  {
+    "name": "Pani Puri",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/pani-puri-1.jpg",
+    "ingredients": ["Puri", "Potato", "Tamarind", "Mint", "Spices"],
+    "instructions": "Fill puris with potato filling. Add spiced tangy water and serve immediately.",
+    "nutrition": { "calories": "120 kcal", "carbs": "20 g", "protein": "2 g", "fat": "4 g" },
+    "url": "https://www.vegrecipesofindia.com/pani-puri-recipe-mumbai-golgappa-puchka/"
+  },
+  {
+    "name": "Dhokla",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/khaman-dhokla-1.jpg",
+    "ingredients": ["Besan", "Curd", "Eno", "Mustard seeds"],
+    "instructions": "Make batter with besan and curd. Steam until fluffy. Temper with mustard seeds.",
+    "nutrition": { "calories": "150 kcal", "carbs": "28 g", "protein": "5 g", "fat": "3 g" },
+    "url": "https://www.vegrecipesofindia.com/khaman-dhokla-microwave-recipe/"
+  },
+  {
+    "name": "Khichdi",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/moong-dal-khichdi-1.jpg",
+    "ingredients": ["Rice", "Moong dal", "Ghee", "Spices"],
+    "instructions": "Cook rice and dal together with ghee and spices until soft.",
+    "nutrition": { "calories": "210 kcal", "carbs": "38 g", "protein": "8 g", "fat": "4 g" },
+    "url": "https://www.vegrecipesofindia.com/moong-dal-khichdi-recipe/"
+  }
+]

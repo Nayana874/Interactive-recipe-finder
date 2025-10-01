@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Interactive Recipe Finder</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+  <header>
+    <h1>🍳 Interactive Recipe Finder</h1>
+    <p>Type ingredients or dish name. Example: "rice, tomato"</p>
+  </header>
+
+  <section class="controls">
+    <div class="search-row">
+      <input id="searchInput" type="text" placeholder="Search recipes...">
+      <button id="searchBtn">🔍</button>
+      <button id="micBtn">🎤</button>
+      <button id="surpriseBtn">🎲 Surprise Me</button>
+    </div>
+  </section>
+
+  <main>
+    <section>
+      <h2>Results</h2>
+      <div id="recipes" class="recipes"></div>
+    </section>
+
+    <aside class="sidebars">
+      <div class="card small" id="saved-section">
+        <div class="card-header">
+          <h3>Saved Recipes ❤️</h3>
+        </div>
+        <div id="savedRecipes" class="recipes small-grid"></div>
+      </div>
+
+      <div class="card small" id="shopping-section">
+        <div class="card-header">
+          <h3>Shopping List 🛒</h3>
+          <div>
+            <button id="clearListBtn">Clear</button>
+          </div>
+        </div>
+        <div id="shoppingList"></div>
+      </div>
+    </aside>
+  </main>
+
+  <!-- Modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="closeModal" class="close">✖</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
